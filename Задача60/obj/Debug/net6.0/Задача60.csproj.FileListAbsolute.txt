@@ -1,0 +1,15 @@
+/Users/MacBook/Desktop/DZ/Задача60/bin/Debug/net6.0/Задача60
+/Users/MacBook/Desktop/DZ/Задача60/bin/Debug/net6.0/Задача60.deps.json
+/Users/MacBook/Desktop/DZ/Задача60/bin/Debug/net6.0/Задача60.runtimeconfig.json
+/Users/MacBook/Desktop/DZ/Задача60/bin/Debug/net6.0/Задача60.dll
+/Users/MacBook/Desktop/DZ/Задача60/bin/Debug/net6.0/Задача60.pdb
+/Users/MacBook/Desktop/DZ/Задача60/obj/Debug/net6.0/Задача60.csproj.AssemblyReference.cache
+/Users/MacBook/Desktop/DZ/Задача60/obj/Debug/net6.0/Задача60.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MacBook/Desktop/DZ/Задача60/obj/Debug/net6.0/Задача60.AssemblyInfoInputs.cache
+/Users/MacBook/Desktop/DZ/Задача60/obj/Debug/net6.0/Задача60.AssemblyInfo.cs
+/Users/MacBook/Desktop/DZ/Задача60/obj/Debug/net6.0/Задача60.csproj.CoreCompileInputs.cache
+/Users/MacBook/Desktop/DZ/Задача60/obj/Debug/net6.0/Задача60.dll
+/Users/MacBook/Desktop/DZ/Задача60/obj/Debug/net6.0/refint/Задача60.dll
+/Users/MacBook/Desktop/DZ/Задача60/obj/Debug/net6.0/Задача60.pdb
+/Users/MacBook/Desktop/DZ/Задача60/obj/Debug/net6.0/Задача60.genruntimeconfig.cache
+/Users/MacBook/Desktop/DZ/Задача60/obj/Debug/net6.0/ref/Задача60.dll
